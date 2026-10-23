@@ -1,2 +1,2 @@
 # Applied-AI-Labs
-Portfolio of AI-driven research and development projects
+Portfolio of AI applied research and development projects
