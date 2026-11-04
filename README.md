@@ -2,7 +2,7 @@
 Portfolio of AI applied research and development projects
 
 
-# Project Report Lens
+# Project Data Analysis
 _Illustrative demo only. The images are altered screenshots of an AI support tool, relabelled as a recipe. They contain no real data, and this is not a tested recipe._
 
 Local AI-Assisted Analytics
