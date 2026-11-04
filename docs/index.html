@@ -62,7 +62,8 @@ figcaption span { color: var(--muted); }
   figcaption { position: static; margin-top: 8px; max-width: none; }
   .lens figcaption { position: static; }
 }
-footer { color: var(--muted); font-size: 13px; border-top: 1px solid var(--edge); padding-top: 16px; }
+footer { color: var(--muted); font-size: 13px; border-top: 1px solid var(--edge); padding-top: 16px; display: grid; gap: 6px; }
+footer p { margin: 0; }
 body { margin: 0; }
 img { max-width: 100%; }
 </style>
@@ -98,7 +99,10 @@ img { max-width: 100%; }
     </figure>
   </div>
 
-  <footer>Prep 15 min · Set 21 min. The mixture is then ready for baking; the icing (5 min) goes on after.</footer>
+  <footer>
+    <p>Prep 15 min · Set 21 min. The mixture is then ready for baking; the icing (5 min) goes on after.</p>
+    <p>Illustrative demo only. The images are altered screenshots of an AI agent, relabelled as a recipe. They contain no real data, and this is not a tested recipe.</p>
+  </footer>
 </div>
 </body>
 </html>
