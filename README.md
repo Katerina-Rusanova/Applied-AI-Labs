@@ -8,4 +8,7 @@ The Report Lens Agent adds an AI Analyst to every product report. It highlights 
 
 Technologies: C#, .NET, Blazor Server, DuckDB, FalkorDB, oMLX, local LLMs, Apache ECharts
 
+Demo available at: [Applied-AI-Labs](https://katerina-rusanova.github.io/Applied-AI-Labs/)
+
+
 
